@@ -7,8 +7,13 @@ Mobile UI concept for Fintech and Enterprise Applications:
 
 The Fintech and Ecommerce Platform Demo:
 
-<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/FintechUI2.png" width="400" title="Fintech Mobile App UI">
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/FintechUI2.png" width="550" title="Fintech Mobile App UI">
 
+Feature:
+1. Profile UI with overall credit score
+2. Campaign option
+3. Ecommerce Banner/Offers
+4. Dynamic linking and Recommendation
 
 
 
