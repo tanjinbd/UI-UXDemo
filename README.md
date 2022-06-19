@@ -5,7 +5,7 @@ These sample UI's are related to professional Mobile and Enterpise Application.
 
 Mobile UI concept for Fintech and Enterprise Applications:
 
-The Fintech and Ecommerce Platform Demo:
+<b>The Fintech and Ecommerce Platform Demo:</b>
 
 <img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/FintechUI2.png" width="550" title="Fintech Mobile App UI">
 
