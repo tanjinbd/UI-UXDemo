@@ -21,7 +21,6 @@ Feature:
 
 UI Features:
 •	Enhanced user interface developed according to Google Human Interface Design Guideline.
-•	Multithreaded: The UI is always smooth and responsive.
 •	Best Unicode Bengali font with advance Hardware graphics and rendering engine.
 •	Device rotation and all orientations.¹
 •	Links (URI and go to page).
@@ -31,5 +30,14 @@ UI Features:
 •	Book management using Administrative Panel
 
 
+<b>The Campaign App - Telco Campaign and Product Selection App - Design Demo: </b>
+
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/GPHOME_5_flat1.png" width="550" title="Telco App Demo">
+
+UI Features:
+1. Campaign option
+2. Ecommerce Banner/Offers
+3. Special Offer, Event option
+4. Option for video, search etc
 
 
