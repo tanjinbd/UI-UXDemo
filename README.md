@@ -15,5 +15,21 @@ Feature:
 3. Ecommerce Banner/Offers
 4. Dynamic linking and Recommendation
 
+<b>The Book store app - Skeuomorphism Design Demo:</b>
+
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/BookStoreTanjinUI.png" width="750" title="Book Store Mobile App UI">
+
+UI Features:
+•	Enhanced user interface developed according to Google Human Interface Design Guideline.
+•	Multithreaded: The UI is always smooth and responsive.
+•	Best Unicode Bengali font with advance Hardware graphics and rendering engine.
+•	Device rotation and all orientations.¹
+•	Links (URI and go to page).
+•	Book mark option
+•	Text zoom option
+•	Page turning animation
+•	Book management using Administrative Panel
+
+
 
 
