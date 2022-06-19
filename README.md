@@ -32,12 +32,23 @@ UI Features:
 
 <b>The Campaign App - Telco Campaign and Product Selection App - Design Demo: </b>
 
-<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/GPHOME_5_flat1.png" width="550" title="Telco App Demo">
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/GPHOME_5_flat1.png" width="400" title="Telco App Demo">
 
 UI Features:
 1. Campaign option
 2. Ecommerce Banner/Offers
 3. Special Offer, Event option
 4. Option for video, search etc
+
+<b>The News App - Localized Bangla - Design Demo: </b>
+
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/NewsAppBangla.jpg" width="400" title="News App Demo">
+
+UI Features:
+1. Latest Headlines
+2. Category based news illustration
+3. Sharing option
+4. Option for search, video etc
+
 
 
