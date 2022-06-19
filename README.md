@@ -61,5 +61,14 @@ UI Features:
 3. Sharing option
 4. Option for search, video etc
 
+<b>The Health App Dashboard - Design Demo: </b>
 
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/HQ_update.png" width="800" title="Health Web App Dashboard Demo">
+
+UI Features:
+1. Background text with dynamic links
+2. Card Based Medical History, Profile info
+3. Left Navigation Panel with icons and mouseover
+4. Card based Stat Graph using Jquery and SVG
+5. Personal Schedule option with Recommendation
 
