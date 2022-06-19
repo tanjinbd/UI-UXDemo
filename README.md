@@ -15,7 +15,7 @@ Feature:
 3. Ecommerce Banner/Offers
 4. Dynamic linking and Recommendation
 
-<b>The Book store app - Skeuomorphism Design Demo:</b>
+<b>The Book store app - Skeuomorphism Design Demo: (With localized language rendering)</b>
 
 <img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/BookStoreTanjinUI.png" width="750" title="Book Store Mobile App UI">
 
