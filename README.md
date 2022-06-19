@@ -40,6 +40,17 @@ UI Features:
 3. Special Offer, Event option
 4. Option for video, search etc
 
+<b>The Research Oriented Web App - Design Demo: </b>
+
+<img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/ResearchWeb.png" width="800" title="Research Web App Demo">
+
+UI Features:
+1. Background text with dynamic links
+2. Category based news illustration
+3. Gallery, Publication and scrollable update
+4. Option for search, Dynamic Banner etc
+
+
 <b>The News App - Localized Bangla - Design Demo: </b>
 
 <img src="https://github.com/tanjinbd/UI-UXDemo/blob/main/NewsAppBangla.jpg" width="400" title="News App Demo">
